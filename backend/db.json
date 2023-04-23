@@ -1,19 +1,52 @@
 {
-  "pensamentos":[{
-    "id": 1,
-    "conteudo": "O senhor é meu pastor e nada me faltará",
-    "autoria":"Salmos 23" ,
-    "modelo": "modelo1"
-  },{
-    "id": 2,
-    "conteudo": "deitar-me faz em pastos verdejantes",
-    "autoria":"Salmos 23" ,
-    "modelo": "modelo2"
-  },{
-    "id": 3,
-    "conteudo": "Obrigado Deus",
-    "autoria":"Salmos 23" ,
-    "modelo": "modelo3"
-  }
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "O senhor é meu pastor e nada me faltará",
+      "autoria": "Salmos 23",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "deitar-me faz em pastos verdejantes",
+      "autoria": "Salmos 23",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Obrigado Deus",
+      "autoria": "Salmos 23",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Cristo é o meu Pastor",
+      "autoria": "Alan",
+      "modelo": "",
+      "id": 4
+    },
+    {
+      "conteudo": "Cristo é o meu Pastor",
+      "autoria": "Alan",
+      "modelo": "",
+      "id": 5
+    },
+    {
+      "conteudo": "Cristo é o meu Pastor",
+      "autoria": "Alan",
+      "modelo": "",
+      "id": 6
+    },
+    {
+      "conteudo": "Cristo",
+      "autoria": "Alan",
+      "modelo": "",
+      "id": 7
+    },
+    {
+      "conteudo": "Cristo é o Meu Pastor, nada faltará",
+      "autoria": "VIDA",
+      "modelo": "",
+      "id": 8
+    }
   ]
 }
