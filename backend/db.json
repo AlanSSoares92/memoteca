@@ -1,0 +1,19 @@
+{
+  "pensamentos":[{
+    "id": 1,
+    "conteudo": "O senhor é meu pastor e nada me faltará",
+    "autoria":"Salmos 23" ,
+    "modelo": "modelo1"
+  },{
+    "id": 2,
+    "conteudo": "deitar-me faz em pastos verdejantes",
+    "autoria":"Salmos 23" ,
+    "modelo": "modelo2"
+  },{
+    "id": 3,
+    "conteudo": "Obrigado Deus",
+    "autoria":"Salmos 23" ,
+    "modelo": "modelo3"
+  }
+  ]
+}
